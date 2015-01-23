@@ -14,6 +14,7 @@ public class Child extends Parent{
         
         Child c = new Child();
         c.doIt();
+        System.out.println("tintin");
     }
     
     public void doIt(){
